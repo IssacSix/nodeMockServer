@@ -1,0 +1,68 @@
+[
+    {
+        "method": "get",
+        "url": "/1004",
+        "response": {
+            "retcode": "000000",
+            "desc": "成功",
+            "biz": [
+                {
+                    "flowpackage": "10086_30",
+                    "name": "90M",
+                    "price": "9.0",
+                    "finalprice": "4.5",
+                    "display": "1",
+                    "checked": "1"
+                },
+                {
+                    "flowpackage": "10086_30",
+                    "name": "50M",
+                    "price": "5.0",
+                    "finalprice": "4.5",
+                    "display": "1",
+                    "checked": "1"
+                },
+                {
+                    "flowpackage": "10086_30",
+                    "name": "50M",
+                    "price": "5.0",
+                    "finalprice": "4.5",
+                    "display": "1",
+                    "checked": "1"
+                },
+                {
+                    "flowpackage": "10086_30",
+                    "name": "100M",
+                    "price": "5.0",
+                    "finalprice": "4.5",
+                    "display": "0",
+                    "checked": "1"
+                },
+                {
+                    "flowpackage": "10086_30",
+                    "name": "300M",
+                    "price": "5.0",
+                    "finalprice": "4.5",
+                    "display": "0",
+                    "checked": "1"
+                },
+                {
+                    "flowpackage": "10086_30",
+                    "name": "500M",
+                    "price": "5.0",
+                    "finalprice": "4.5",
+                    "display": "0",
+                    "checked": "1"
+                },
+                {
+                    "flowpackage": "10086_30",
+                    "name": "700M",
+                    "price": "5.0",
+                    "finalprice": "4.5",
+                    "display": "0",
+                    "checked": "1"
+                }
+            ]
+        }
+    }
+]

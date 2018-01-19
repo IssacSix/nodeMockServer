@@ -1,0 +1,8 @@
+{
+    "name": "mockServer",
+    "secret": "",
+    "domain": "10.4.110.78",
+    "origin": "",
+    "apiVersion": "1.0",
+    "port": 3000
+}
