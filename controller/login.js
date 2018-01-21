@@ -1,5 +1,5 @@
-var Mock = require('mockjs');
 var c_10000 = require('../jsons/1000.json')
+var Mock = require('mockjs');
 var Random = Mock.Random
 
 // 获取验证码 1000
